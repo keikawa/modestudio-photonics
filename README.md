@@ -1,6 +1,6 @@
 # ModeStudio Photonics
 
-ModeStudio Photonics is a desktop application for waveguide mode analysis in integrated photonics.
+ModeStudio is an open-source software for waveguide mode analysis in integrated photonics.
 
 It runs locally on your computer and provides a graphical interface for loading cross-section geometry, running mode analysis, visualizing mode fields, and exporting results.
 
@@ -17,9 +17,9 @@ It runs locally on your computer and provides a graphical interface for loading 
 
 ## Installation
 
-Prebuilt application packages are available from the GitHub Releases page.
+Prebuilt Windows installer packages are available from the GitHub Releases page.
 
-Download the latest release for your operating system, extract or install it, and launch ModeStudio.
+Download the latest release, run the installer, and launch ModeStudio after installation is complete.
 
 ## Quick start
 
