@@ -1,0 +1,20 @@
+{
+  "unit": "um",
+  "wavelength_um": 1.55,
+  "materials": {
+    "si": {
+      "label": "Silicon",
+      "n": {
+        "real": 3.4777,
+        "imag": 0.0
+      }
+    },
+    "sio2": {
+      "label": "Silicon Dioxide",
+      "n": {
+        "real": 1.444,
+        "imag": 0.0
+      }
+    }
+  }
+}

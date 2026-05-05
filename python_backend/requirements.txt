@@ -1,0 +1,10 @@
+streamlit>=1.56
+numpy>=1.26
+scipy>=1.11
+pandas>=2.2
+plotly>=5.22
+shapely>=2.0
+meshio>=5.3
+gmsh>=4.13
+scikit-fem>=10.0
+femwell
