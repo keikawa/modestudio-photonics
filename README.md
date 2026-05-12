@@ -1,6 +1,6 @@
 # ModeStudio
 
-ModeStudio is an open-source waveguide mode analysis tool.
+ModeStudio is an open-source mode analysis GUI software for integrated photonics.
 
 It provides a GUI for loading waveguide models from JSON files, running mode analysis, and visualizing fields.
 
